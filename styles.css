@@ -1,0 +1,30 @@
+body{
+    font-size: 18px;
+}
+
+.btn-right {
+    float: right;
+}
+
+.nav-right{
+    float: right;
+}
+
+.my-btn{
+    background-color: #44001a !important;
+    color: white;
+}
+
+.red{
+    color: red;
+}
+
+.white{
+    color: white;
+}
+
+.company-name{
+    color: white;
+    font-family: 'Architects Daughter', cursive;
+    margin-left: 15px;
+}
